@@ -130,3 +130,6 @@ dmypy.json
 
 # ds_store
 .DS_Store
+
+# flowers data
+data/flowers*
